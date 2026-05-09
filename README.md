@@ -5,7 +5,7 @@ A simple clone inspired by the look and feel of the Phantom website.
 
 ## 🚀 Preview
 
-![App Screenshot](./images/preview.png)
+![App Screenshot](./images/Preview.png)
 
 ## 🧠 About
 
